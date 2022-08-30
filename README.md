@@ -1,5 +1,5 @@
 # crnn_transformer_mlm
-## transformer_mlm
+## transformer_mlm file
 
 ### Model Training
 
@@ -18,7 +18,7 @@ python predict.py -encoding semnatic
 python predict.py -encoding agnostic
 
 
-## split_agnostic
+## split_agnostic file
 
 ### Model Training
 python train.py
