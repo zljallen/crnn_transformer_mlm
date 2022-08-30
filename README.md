@@ -1,8 +1,7 @@
 # crnn_transformer_mlm
 
 ## 数据集PrIMus
-### PrIMus dataset can be downloaded from <https://grfia.dlsi.ua.es/primus/>, cite from paper "<End-to-End Neural Optical Music Recognition of Monophonic Scores>", and saved in this file.
-
+### PrIMus dataset can be downloaded from <https://grfia.dlsi.ua.es/primus/>, cite from paper <End-to-End Neural Optical Music Recognition of Monophonic Scores>, and saved in this file.
 
 ## transformer_mlm file
 
